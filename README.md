@@ -8,7 +8,7 @@
 0.0.1
 
 ## 如何使用
-css 样式可以自由定义，这里只是为了美观贴了上来
+css 样式可以自由定义，这里只是为了方便使用贴了上来
 ```css
 .container {
     width: 800px;
@@ -102,8 +102,7 @@ import Zoom from 'petrus-zoom';
 ### Zoom
 
 | 参数 | 类型 | 是否必填 | 默认值 | 说明 |
-|------|------|------|------|------|
-
+| ---- | ---- | ---- | ---- | ---- |
 | defaultOptions | Object | 否 | null | 初始选项 |
 | className | className | 否 |  | 传入样式名 |
 | style | Object | 否 | null | 传入样式 |
@@ -124,8 +123,7 @@ import Zoom from 'petrus-zoom';
 ### Zoom children 参数
 
 | 参数 | 类型 | 是否必填 | 默认值 | 说明 |
-|------|------|------|------|------|
-
+| ---- | ---- | ---- | ---- | ---- |
 | options | Object | 否 |  | 只读属性，当前位移对象 |
 | onZoomStep | Function | 否 |  | 按步骤缩放，负数为减小, 例：onZoomTo(-10) |
 | onZoomTo | Function | 否 |  | 缩放至特定大小，100为不做任何缩放，例：onZoomTo(110) |
@@ -153,7 +151,7 @@ return [
 ### Zoom.Content
 
 | 参数 | 类型 | 是否必填 | 默认值 | 说明 |
-|------|------|------|------|------|
+| ---- | ---- | ---- | ---- | ---- |
 | className | className | 否 |  | 传入样式名 |
 | style | Object | 否 | null | 传入样式 |
 | justifyContent | string | 否 | center | 与 css 属性 justifyContent 用法一致 |
