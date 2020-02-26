@@ -1,7 +1,7 @@
 {
     "name": "petrus-zoom",
     "description": "缩放 & 拖动 React 控件",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "lib/index.js",
     "files": [
       "src/",
@@ -75,6 +75,6 @@
   "author": "petrus-law",
   "license": "MIT",
   "bugs": {},
-  "homepage": "https://github.com/pyrinelaw/petrus-npm-create-test#readme"
+  "homepage": "https://github.com/pyrinelaw/petrus-zoom#readme"
 }
   
