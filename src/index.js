@@ -126,7 +126,7 @@ class Zoom extends React.Component {
         const { className, style } = this.props;
         return (
             <div
-                className={`mei-components-zoom ${className ? (` ${className}`) : ''}`}
+                className={`petrus-zoom-zoom ${className ? (` ${className}`) : ''}`}
                 style={style || {}}
             >
                 {this.renderChildren()}

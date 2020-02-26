@@ -108,7 +108,7 @@ export default class Content extends React.Component {
 
         return (
             <div
-                className={`mei-components-zoom-content ${className ? ` ${className}` : ''}`}
+                className={`petrus-zoom-zoom-content ${className ? ` ${className}` : ''}`}
                 style={{
                     ...style,
                     justifyContent: justifyContent || 'center',
@@ -118,7 +118,7 @@ export default class Content extends React.Component {
                 // onMouseUp={this.onMoveEnd}
             >
                 <div
-                    className="mei-components-zoom-content__wrap"
+                    className="petrus-zoom-zoom-content__wrap"
                     style={{
                         transformOrigin,
                         transform,
