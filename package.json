@@ -51,7 +51,7 @@
       "gulp-sourcemaps": "1.6.0",
       "gulp-watch-path": "0.1.0",
       "url-loader": "0.5.7",
-      "minimist": "1.2.0",
+      "minimist": "1.2.5",
       "webpack": "1.13.1",
       "webpack-dev-server": "1.12.1",
       "webpack-dev-middleware": "1.6.1",
